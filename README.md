@@ -1,5 +1,7 @@
 # Customer-Behavior
 Built an interactive Power BI dashboard connected to a MySQL database to analyze customer purchasing behavior and revenue trends. Implemented SQL queries and DAX for age-based segmentation, repeat buyer analysis, and subscription insights to generate actionable business intelligence
+
+
 📌 Overview
 
 This project is an end-to-end Business Intelligence dashboard built using MySQL and Power BI. It analyzes customer purchasing behavior, revenue distribution, and demographic trends to generate actionable business insights.
